@@ -1,0 +1,5 @@
+(library
+ (public_name freemonad)
+ (modules Comp)
+ (libraries imp dataStructures generics)
+ (synopsis "improving computations."))
